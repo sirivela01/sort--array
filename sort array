@@ -9,3 +9,7 @@ sorted_arr = np.sort(arr)
 # Printing the sorted array
 print("Original Array:", arr)
 print("Sorted Array:", sorted_arr)
+
+output;-
+Original Array: [12  5  8 20  7  2 15]
+Sorted Array: [ 2  5  7  8 12 15 20]
