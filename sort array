@@ -1,0 +1,11 @@
+import numpy as np
+
+# Creating an example array
+arr = np.array([12, 5, 8, 20, 7, 2, 15])
+
+# Sorting the array
+sorted_arr = np.sort(arr)
+
+# Printing the sorted array
+print("Original Array:", arr)
+print("Sorted Array:", sorted_arr)
